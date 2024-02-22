@@ -1,5 +1,4 @@
 # Line Bot 教學
-
 本教程介紹如何使用 Python LINE Bot SDK 在 Heroku 上架設一個簡單的回話機器人。
 <!--more-->
 如果您想以另一種語言架設範例 bot，請參閱以下  LINE Bot SDK repositories。
